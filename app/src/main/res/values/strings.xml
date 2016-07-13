@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eddystone Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainbutton">Open The Door</string>
+    <string name="welcome">Приветствуем вас в приложении Universal Mobile Electronic Key</string>
+    <string name="emptystring" />
+
+</resources>
